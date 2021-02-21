@@ -1,9 +1,10 @@
 ## Maxi's cool Homepage
 
 If you don't find help here, you can join my discord server : [Click here](https://discord.gg/eumk4MC/)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Create a Github Pages Homepage
+
+Create a Github Pages Page by yourself : link coming soon
 
 ```markdown
 Syntax highlighted code block
