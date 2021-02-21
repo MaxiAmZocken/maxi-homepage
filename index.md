@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Maxi's cool Homepage
 
-You can use the [editor on GitHub](https://github.com/MaxiAmZocken/maxi-homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+If you don't find help here, you can join my discord server : [Click here](https://discord.gg/eumk4MC/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
