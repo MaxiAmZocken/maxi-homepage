@@ -2,7 +2,7 @@
 
 If you don't find help here, you can join my discord server : [Click here](https://discord.gg/eumk4MC/)
 
-**GitHub Repositorys :
+**GitHub Repositorys :**
 
 [My-Stuff](https://github.com/MaxiAmZocken/My-Stuff) <- Stuff I use in my worklow
 
