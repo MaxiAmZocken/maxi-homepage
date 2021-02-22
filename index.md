@@ -8,6 +8,6 @@ GitHub Repositorys :
 
 [Roblox-Jailbreak-Macros](https://github.com/MaxiAmZocken/Roblox-Jailbreak-Macros) <- Roblox Macros to do some things faster
 
-[Autohotkey-SpamBot](https://github.com/MaxiAmZocken/Autohotkey-SpamBot)
+[Autohotkey-SpamBot](https://github.com/MaxiAmZocken/Autohotkey-SpamBot) <- Spambot, just for fun
 
-[Dank-Memer-Commands](https://github.com/MaxiAmZocken/Dank-Memer-Commands)
+[Dank-Memer-Commands](https://github.com/MaxiAmZocken/Dank-Memer-Commands) <- Dank Memer money farm shortcut
