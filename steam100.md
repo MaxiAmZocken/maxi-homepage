@@ -1,6 +1,6 @@
 ## Steam Tipps and Tricks
 
-My Steam : (https://steamcommunity.com/id/Void_Maxiii/)[https://steamcommunity.com/id/Void_Maxiii/]
+My Steam : [https://steamcommunity.com/id/Void_Maxiii/](https://steamcommunity.com/id/Void_Maxiii/)
 
 **Easy Archievements**
 
