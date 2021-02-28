@@ -4,6 +4,6 @@ My Steam : [https://steamcommunity.com/id/Void_Maxiii/](https://steamcommunity.c
 
 **Easy Archievements**
 
-Emily is Away <-- Windows XP like direct messager
+###Emily is Away <-- Windows XP like direct messager
 
-Tutorial : *coming soon*
+>Tutorial : *coming soon*
