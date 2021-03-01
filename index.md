@@ -1,5 +1,7 @@
 ## Maxi's cool Homepage
 
+Navigator : [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) [My Discord Server](https://maxiamzocken.github.io/discord)
+
 If you don't find help here, you can join my discord server : [Click here](https://discord.gg/eumk4MC/)
 
 **GitHub Repositorys :**
