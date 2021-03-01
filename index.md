@@ -1,6 +1,6 @@
 ## Maxi's cool Homepage
 
-Navigator : [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) [My Discord Server](https://maxiamzocken.github.io/discord)
+Navigator : [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) | [My Discord Server](https://maxiamzocken.github.io/discord)
 
 **GitHub Repositorys :**
 
