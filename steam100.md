@@ -10,6 +10,9 @@ Emily is Away <-- Windows XP like direct messager
 Loading Screen Simulator <-- It's just a loading screen, isn't it ?
 >Guide : [https://steamcommunity.com/sharedfiles/filedetails/?id=1086390268](https://steamcommunity.com/sharedfiles/filedetails/?id=1086390268)
 
+Loot Grind Simulator <-- Do Quests and get Loot...
+>Guide : You don't need a guide, this game is easy
+
 **Easy Archievements** (Paid)
 
 Wallpaper Engine ($3.99)
