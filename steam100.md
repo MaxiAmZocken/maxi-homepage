@@ -13,6 +13,9 @@ Loading Screen Simulator <-- It's just a loading screen, isn't it ?
 Loot Grind Simulator <-- Do Quests and get Loot...
 >Guide : You don't need a guide, this game is easy
 
+One Thousand Lies <-- Story that you can read, or skip...
+>Guide : [https://steamcommunity.com/sharedfiles/filedetails/?id=675141450](https://steamcommunity.com/sharedfiles/filedetails/?id=675141450)
+
 **Easy Archievements** (Paid)
 
 Wallpaper Engine ($3.99)
