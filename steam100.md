@@ -26,5 +26,3 @@ Sepia Tears <-- Story that you can read, or skip...
 
 Wallpaper Engine ($3.99)
 >Guide (Difficult Ones) : [https://www.youtube.com/watch?v=HIXMbqi2r5I&list=PLPQxrgytJlBSQP1HxbYUFFxlhMoWEZLMt](https://www.youtube.com/watch?v=HIXMbqi2r5I&list=PLPQxrgytJlBSQP1HxbYUFFxlhMoWEZLMt)
-
-Lol
