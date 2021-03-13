@@ -1,10 +1,8 @@
-## Maxi's cool Homepage
-
 Navigator : [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) | [My Discord Server](https://maxiamzocken.github.io/discord)
 
 **GitHub Repositorys :**
 
-[My-Stuff](https://github.com/MaxiAmZocken/My-Stuff) <- Stuff I use in my worklow
+[My-Stuff](https://github.com/MaxiAmZocken/My-Stuff) <- Stuff I use in my workflow
 
 [Roblox-Jailbreak-Macros](https://github.com/MaxiAmZocken/Roblox-Jailbreak-Macros) <- Roblox Macros to do some things faster
 

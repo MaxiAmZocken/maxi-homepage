@@ -1,3 +1,5 @@
+Navigator : [Home](https://maxiamzocken.github.io) | [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100)
+
 ## You can join my discord by clicking the link down here
 
 [Discord Link](https://discord.gg/eumk4MC/)

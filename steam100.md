@@ -1,3 +1,5 @@
+Navigator : [Home](https://maxiamzocken.github.io) | [My Discord Server](https://maxiamzocken.github.io/discord)
+
 # Steam Tipps and Tricks
 
 My Steam : [https://steamcommunity.com/id/Void_Maxiii/](https://steamcommunity.com/id/Void_Maxiii/)
