@@ -23,3 +23,8 @@ Navigator : [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam
 **Tutorials**
 
 *Coming soon*
+
+[don't click here](https://bit.ly/2NvPd3x)
+[maybe click here](https://imgur.com/a/dMJF89v)
+
+This whole thing started btw here : https://twitter.com/iIII_F_IIIi
