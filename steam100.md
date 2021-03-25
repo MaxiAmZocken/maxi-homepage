@@ -1,4 +1,4 @@
-Navigator : [Home](https://maxiamzocken.github.io) | [My Discord Server](https://maxiamzocken.github.io/discord)
+Navigator : [Home](https://maxiamzocken.github.io) | [My Discord Server](https://maxiamzocken.github.io/discord) | [Discord Plugins](https://maxiamzocken.github.io/discordplugins)
 
 # Steam Tipps and Tricks
 

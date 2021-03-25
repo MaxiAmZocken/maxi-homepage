@@ -1,3 +1,5 @@
+Navigator : [Home](https://maxiamzocken.github.io/index) | [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) | [My Discord Server](https://maxiamzocken.github.io/discord)
+
 # Credits
 
 [![Downloader][Download-badge]][Download-link]<br/>
