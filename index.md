@@ -31,23 +31,23 @@ __Software I use__
 
 __GitHub Repositorys__
 
-[My-Stuff](https://github.com/MaxiAmZocken/My-Stuff) <- Stuff I use in my workflow
+- [My-Stuff](https://github.com/MaxiAmZocken/My-Stuff) <- Stuff I use in my workflow
 
-[Roblox-Jailbreak-Macros](https://github.com/MaxiAmZocken/Roblox-Jailbreak-Macros) <- Roblox Macros to do some things faster
+- [Roblox-Jailbreak-Macros](https://github.com/MaxiAmZocken/Roblox-Jailbreak-Macros) <- Roblox Macros to do some things faster
 
-[Autohotkey-SpamBot](https://github.com/MaxiAmZocken/Autohotkey-SpamBot) <- Spambot, just for fun
+- [Autohotkey-SpamBot](https://github.com/MaxiAmZocken/Autohotkey-SpamBot) <- Spambot, just for fun
 
-[Dank-Memer-Commands](https://github.com/MaxiAmZocken/Dank-Memer-Commands) <- Dank Memer money farm shortcut
+- [Dank-Memer-Commands](https://github.com/MaxiAmZocken/Dank-Memer-Commands) <- Dank Memer money farm shortcut
 
 __Tutorial Videos__
 
-[Unlock Roblox FPS](https://www.youtube.com/watch?v=RestyOZ6agA)
+- [Unlock Roblox FPS](https://www.youtube.com/watch?v=RestyOZ6agA)
 
-[Create GitHub Pages Homepage](https://youtu.be/ksye6A1bDFI)
+- [Create GitHub Pages Homepage](https://youtu.be/ksye6A1bDFI)
 
-[Roblox Macros](https://www.youtube.com/watch?v=xowCerMI2ik)
+- [Roblox Macros](https://www.youtube.com/watch?v=xowCerMI2ik)
 
-[Create Only Read Channel](https://www.youtube.com/watch?v=s-mRiW9rjm0)
+- [Create Only Read Channel](https://www.youtube.com/watch?v=s-mRiW9rjm0)
 
 __Tutorials__
 
