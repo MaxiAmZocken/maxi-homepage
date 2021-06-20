@@ -2,7 +2,7 @@ Navigator : [Discord Plugins](https://maxiamzocken.github.io/discordplugins) | [
 
 ## About Me
 
-I'm a student im Germany, I'm playing many Videogames and I'm biking pretty much every day, I started learning to program in python and autohotkey a while ago and trying to get more and more knowledge in both and learning more programming languages :)
+I'm a student im Germany, I play many Videogames and I'm biking pretty much every day, I started learning to program in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more programming languages :)
 
 __My Computer__
 
