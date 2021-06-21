@@ -1,10 +1,10 @@
-Navigator : [Home](https://maxiamzocken.github.io) | [My Discord Server](https://maxiamzocken.github.io/discord) | [Discord Plugins](https://maxiamzocken.github.io/discordplugins)
+Navigator : | [Home](https://maxiamzocken.github.io) | [My Discord Server](https://maxiamzocken.github.io/discord)
 
-# Steam Tipps and Tricks
+# Easy Steam Archievements
 
 My Steam : [https://steamcommunity.com/id/Void_Maxiii/](https://steamcommunity.com/id/Void_Maxiii/)
 
-**Easy Archievements** (Free)
+**Free Archievements**
 
 Emily is Away <-- Windows XP like direct messager
 >Guide : [https://steamcommunity.com/sharedfiles/filedetails/?id=575931788](https://steamcommunity.com/sharedfiles/filedetails/?id=575931788)
@@ -24,7 +24,7 @@ Carpe Diem <-- Story that you can read, or skip...
 Sepia Tears <-- Story that you can read, or skip...
 >Guide : Just press TAB and wait
 
-**Easy Archievements** (Paid)
+**Archievements in Paid "Games"**
 
 Wallpaper Engine ($3.99)
 >Guide (Difficult Ones) : [https://www.youtube.com/watch?v=HIXMbqi2r5I&list=PLPQxrgytJlBSQP1HxbYUFFxlhMoWEZLMt](https://www.youtube.com/watch?v=HIXMbqi2r5I&list=PLPQxrgytJlBSQP1HxbYUFFxlhMoWEZLMt)

@@ -1,4 +1,4 @@
-Navigator : [Discord Plugins](https://maxiamzocken.github.io/discordplugins) | [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) | [My Discord Server](https://maxiamzocken.github.io/discord)
+Navigator : | [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) | [My Discord Server](https://discord.gg/eumk4MC)
 
 ## About Me
 
