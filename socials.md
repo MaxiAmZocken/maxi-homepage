@@ -1,6 +1,4 @@
-# Maxiii
-
-Social Media's
+# # Social's
 
 [Github](https://github.com/maxiamzocken)
 
