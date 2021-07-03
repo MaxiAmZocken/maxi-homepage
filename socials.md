@@ -2,7 +2,8 @@
 
 Social Medias
 
-[![Downloader][Download-badge]][Download-link]<br/>
+[Github](https://github.com/maxiamzocken)
 
-[Download-link]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MaxiAmZocken/Better-Discord-Plugins/tree/main/Plugins
-[Download-badge]: https://img.icons8.com/windows/452/instagram-new.png
+[Instagram](https://instagram.com/maxi_am_zocken)
+
+[Twitch](https://twitch.tv/void_maxiii)
