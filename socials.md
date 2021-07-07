@@ -10,4 +10,4 @@ Navigator : | [Home](https://maxiamzocken.github.io) | [Easy Steam Archievement 
 
 | [Reddit](https://reddit.com/maxi_am_zocken) |
 
-| click the blue buttons to get to my profile |
+click the blue buttons to get to my profile
