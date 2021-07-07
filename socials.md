@@ -2,12 +2,12 @@ Navigator : | [Home](https://maxiamzocken.github.io) | [Easy Steam Archievement 
 
 # Social's
 
-[Github](https://github.com/maxiamzocken)
+| [Github](https://github.com/maxiamzocken) |
 
-[Instagram](https://instagram.com/maxi_am_zocken)
+| [Instagram](https://instagram.com/maxi_am_zocken) |
 
-[Twitch](https://twitch.tv/void_maxiii)
+| [Twitch](https://twitch.tv/void_maxiii) |
 
-[Reddit](https://reddit.com/maxi_am_zocken)
+| [Reddit](https://reddit.com/maxi_am_zocken) |
 
-click the blue buttons to get to my profile
+| click the blue buttons to get to my profile |
