@@ -1,4 +1,4 @@
-Navigator : | [Home](https://maxiamzocken.github.io) | [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) | [My Discord Server](https://discord.gg/eumk4MC)
+Navigator : | [Home](https://maxiamzocken.github.io) | [Tech](https://maxiamzocken.github.io/tech) | [Easy Steam Archievement Games](https://maxiamzocken.github.io/steam100) | [My Discord Server](https://discord.gg/eumk4MC)
 
 # Social's
 
