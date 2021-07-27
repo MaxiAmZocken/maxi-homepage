@@ -4,6 +4,8 @@ Navigator : | [Easy Steam Archievement Games](https://maxiamzocken.github.io/ste
 
 I'm a student im Germany, I play many Videogames and I'm biking pretty much every day, I started learning to program in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more programming languages :)
 
+[ProfilePic](IMG_8666.jpeg)
+
 __GitHub Repositorys__
 
 - [My-Stuff](https://github.com/MaxiAmZocken/My-Stuff) <- Stuff I use in my workflow
