@@ -1,4 +1,4 @@
-Navigator : | [Home](https://maxiamzocken.github.io) | [Tech](https://maxiamzocken.github.io/tech) | [Socials](https://maxiamzocken.github.io/socials) | [My Discord Server](https://maxiamzocken.github.io/discord)
+Navigator : | [Home](https://maxiamzocken.github.io) | [Tech](https://maxiamzocken.github.io/tech) | [My Discord Server](https://maxiamzocken.github.io/discord)
 
 # Easy Steam Archievements
 
