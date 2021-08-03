@@ -8,18 +8,18 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 
 ### Social Media 📮
 
-[<img align="left" alt="MaxiAmZocken | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MaxiAmZocken | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MaxiAmZocken | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="MaxiAmZocken | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MaxiAmZocken | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[Website](https://maxiamzocken.github.io)
+[Instagram](https://instagram.com/Maxi_am_zocken)
+[Reddit](https://reddit.com/user/Maxi_am_zocken)
+[Youtube](https://www.youtube.com/channel/UCKXu4_UtUGvSTRf_FZBMjpQ)
+[Twitter](https://twitter.com/Maxi_am_zocken)
 <br/>
 
 ### Links 🌍
 
-[Equipment] 💻 <br/>
-[Discord] 🎙 <br/>
-[Steam] 🎮 <br/>
+[Equipment](https://maxiamzocken.github.io/tech) 💻 <br/>
+[Discord](https://discord.gg/eumk4MC) 🎙 <br/>
+[Steam](https://steamcommunity.com/id/Void_Maxiii/) 🎮 <br/>
 
 ### Github Stats 🧮
 
@@ -48,13 +48,3 @@ __Tutorial Videos__
 - [Roblox Macros](https://www.youtube.com/watch?v=xowCerMI2ik)
 
 - [Create Only Read Channel](https://www.youtube.com/watch?v=s-mRiW9rjm0)
-<br/>
-
-[website]: https://maxiamzocken.github.io
-[twitter]: https://twitter.com/Maxi_am_zocken
-[youtube]: https://www.youtube.com/channel/UCKXu4_UtUGvSTRf_FZBMjpQ
-[reddit]: https://reddit.com/user/Maxi_am_zocken
-[instagram]: https://instagram.com/Maxi_am_zocken
-[equipment]: https://maxiamzocken.github.io/tech
-[discord]: https://discord.gg/eumk4MC
-[steam]: https://steamcommunity.com/id/Void_Maxiii/
