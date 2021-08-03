@@ -8,11 +8,11 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 
 ### Social Media 📮
 
-[Website](https://maxiamzocken.github.io)
-[Instagram](https://instagram.com/Maxi_am_zocken)
-[Reddit](https://reddit.com/user/Maxi_am_zocken)
-[Youtube](https://www.youtube.com/channel/UCKXu4_UtUGvSTRf_FZBMjpQ)
-[Twitter](https://twitter.com/Maxi_am_zocken)
+[Website](https://maxiamzocken.github.io) <br/>
+[Instagram](https://instagram.com/Maxi_am_zocken) <br/>
+[Reddit](https://reddit.com/user/Maxi_am_zocken) <br/>
+[Youtube](https://www.youtube.com/channel/UCKXu4_UtUGvSTRf_FZBMjpQ) <br/>
+[Twitter](https://twitter.com/Maxi_am_zocken) <br/>
 <br/>
 
 ### Links 🌍
