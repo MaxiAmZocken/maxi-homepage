@@ -2,7 +2,7 @@ Navigator : | [Tech](https://maxiamzocken.github.io/tech) | [Easy Steam Archieve
 
 ## About Me
 
-I'm a student im Germany, I play many Videogames and I'm biking pretty much every day, I started learning to program in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more programming languages :)
+I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty much every day, I started learning to code in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
 
 ![Pic](IMG_8666.jpeg)
 
