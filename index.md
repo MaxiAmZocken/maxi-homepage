@@ -27,7 +27,7 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
   <img src="https://github-readme-stats.vercel.app/api?username=MaxiAmZocken&show_icons=true&count_private=true&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
 <br/>
 
-__GitHub Repositorys__
+### GitHub Repositorys
 
 - [My-Stuff](https://github.com/MaxiAmZocken/My-Stuff) <- Stuff I use in my workflow
 
@@ -39,7 +39,7 @@ __GitHub Repositorys__
 
 - [Dank-Memer-Commands](https://github.com/MaxiAmZocken/Dank-Memer-Commands) <- Dank Memer money farm shortcut
 
-__Tutorial Videos__
+### Tutorial Videos 
 
 - [Unlock Roblox FPS](https://www.youtube.com/watch?v=RestyOZ6agA)
 
